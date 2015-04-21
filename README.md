@@ -1,11 +1,11 @@
 ###Developers
-Marc Lee
+Geoff Winner, Marc Lee
 
 ###Date
-April 19, 2015<br />
+April 21, 2015<br />
 
 ###Description
-Student Roster allows a user to add a student name, delete it, and search.
+Allows a user to add restaurants to a list 
 
 ###Copyright (c) 2015 Marc Lee
 
